@@ -11,7 +11,6 @@
 	<groupId>Project</groupId>
 	<artifactId>java-maven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>	
 	<name>java-maven</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
